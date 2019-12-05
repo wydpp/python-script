@@ -3,7 +3,7 @@
 # Author:wydpp
 
 '''
-pip3 install PyMySQL
+pip install PyMySQL
 '''
 
 import pymysql
