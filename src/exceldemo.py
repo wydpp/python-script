@@ -28,5 +28,3 @@ def writeExcel():
             #给单元格赋值
             c.value= str(c.row)+"行，"+str(c.column)+"列"
     wb.save("/home/dpp/Desktop/code/python-demo/resources/pythonWriteDemo.xlsx")
-
-writeExcel()
